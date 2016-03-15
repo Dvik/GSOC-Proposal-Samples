@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Conference>
+
+  <Registration> https://docs.google.com/forms/d/1Ao9bwp/viewform?ths=true&edit_requested=true </Registration>
+
+  <Event name="Event Name 1">
+    <Title>Event Title 1</Title>
+    <Date>1/13/2019</Date>
+    <Speakers>
+      <Speaker>Speaker 1</Speaker>
+      <Speaker>Speaker 2</Speaker>
+      <Speaker>Speaker 3</Speaker>
+    </Speakers>
+  </Event>
+  
+  <Event name="Event Name 2">
+    <Title>Event Title 2</Title>
+    <Date>1/12/2019</Date>
+    <Speakers>
+      <Speaker>Speaker 1</Speaker>
+    </Speakers>
+  </Event>
+  
+  <Event name="Event Name 3">
+    <Title>Event Title 3</Title>
+    <Date>1/6/2019</Date>
+    <Speakers>
+      <Speaker>Speaker 1</Speaker>
+      <Speaker>Speaker 2</Speaker>
+    </Speakers>
+  </Event>
+  
+  <Event name="Event Name 4">
+    <Title>Event Title 4</Title>
+    <Date>12/12/2019</Date>
+    <Speakers>
+      <Speaker>Speaker 1</Speaker>
+    </Speakers>
+  </Event>
+  
+</Conference>
